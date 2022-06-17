@@ -17,6 +17,23 @@ nombre = "Juan"
 
 * Finalmente, usa ambas variables para unir el título y los hechos.
 
+          titulo = "usuarios de"
+          taller = "Escuela de Código"
+          folio = "3"
+          nombre = "Juan"
+
+          print(f'{titulo.title()}')
+          print(f'--------------------- \n{taller} \n{folio} \n{nombre}')
+          
+          Usuarios De
+          --------------------- 
+          Escuela de Código 
+          3 
+          Juan
+          
+![image](https://user-images.githubusercontent.com/90996552/174410743-c06ca38e-9f88-47c7-9812-6bbbc36dfac9.png)
+
+
 * Ahora usa información de un usuario diferente para ver si la plantilla todavía funciona.
 
 Datos muestra:
