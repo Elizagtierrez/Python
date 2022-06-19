@@ -48,3 +48,16 @@ nombre = 'María'
 Esto sucede porque las cadenas f están ansiosas en su evaluación, por lo que las variables una vez asignadas no se pueden reasignar. 
 Para evitar este problema, vuelva a hacer la plantilla para utilizar .format():
 
+                    titulo = "usuarios de"
+                    print(f'{titulo.title()}')
+
+                    print('--------------------- \n{0} \n{1} \n{2}'.format("HUERTO", "34", "María"))
+                    Usuarios De
+                    --------------------- 
+                    HUERTO 
+                    34 
+                    María
+                    
+ ![image](https://user-images.githubusercontent.com/90996552/174463876-e6a59411-fbcd-44fd-9874-5bac41de8345.png)
+
+
