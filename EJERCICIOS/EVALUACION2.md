@@ -46,4 +46,20 @@ ambos.
 Calcular el perímetro y área de un rectángulo dada su base y su altura.
 Respuesta:
 
+                  #Calcular el perímetro y área de un rectángulo dada su base y su altura.
+                  lado1 = int(input('Ingrese la medida del primer lado del triángulo en centímetros: '))
+                  lado2 = int(input('Ingrese la medida del segundo lado del triángulo en centímetros: '))
+                  lado3 = int(input('Ingrese la medida del tercer lado del triángulo en centímetros: '))
+                  peri = lado1 + lado2 + lado3
+                  print('Resultado: el perímetro del triángulo es {} cm.'.format(peri))
+                  base = int(input('Ingrese la medida de la base del triángulo en centímetros: '))
+                  altura = int(input('Ingrese la medida de la altura del triángulo en centímetros: '))
+                  area = (base * altura) / 2
+                  print('Resultado: el área del triángulo es {} cm2.'.format(area))
+                  Resultado: el perímetro del triángulo es 6 cm.
+                  Resultado: el área del triángulo es 7.5 cm2.
+ 
+![image](https://user-images.githubusercontent.com/90996552/174942975-85934ea3-6f94-4e28-a2e1-62655179f475.png)
+
+
 
