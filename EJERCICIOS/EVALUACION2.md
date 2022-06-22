@@ -15,7 +15,8 @@ Celsius.
       print('{} grados Fahrenheit son {} grados Celsius '.format(dato1, celsius))
       300 grados Fahrenheit son 148.88888888888889 grados Celsius 
       
-      ![image](https://user-images.githubusercontent.com/90996552/174939545-13b2dc89-c043-4032-a191-acb417722a71.png)
+ 
+ ![image](https://user-images.githubusercontent.com/90996552/174939545-13b2dc89-c043-4032-a191-acb417722a71.png)
 
 
 2.2 Ejercicio 2 (1.5 puntos)
