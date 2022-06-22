@@ -24,6 +24,22 @@ Celsius.
 Dados dos números, mostrar la suma, resta, división y multiplicación de
 ambos.
 
+            #Ejercicio2. Dados dos números mostrar la suma, resta, división y multiplicación de ambos.
+            num_1 = int(input('Ingrese un número: '))
+            num_2 = int(input('Ingrese el segundo número: '))
+            suma = num_1 + num_2
+            resta = num_1 - num_2
+            multi = num_1 * num_2
+            divi = num_1 / num_2
+            print('la suma de los dos números dados es: {} \nla resta de los dos números es: {} \nla multipliacación de los dos números es: {} \nla división entre los dos números es: {}'.format(suma,resta,multi,divi))
+            la suma de los dos números dados es: 4 
+            la resta de los dos números es: 0 
+            la multipliacación de los dos números es: 4 
+            la división entre los dos números es: 1.0
+
+
+![image](https://user-images.githubusercontent.com/90996552/174941346-8111e395-e013-48ec-a94a-b29cabf6dc4a.png)
+
 
 2.3 Ejercicio 3 (1.5 puntos)
 
